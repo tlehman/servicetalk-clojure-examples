@@ -6,29 +6,13 @@ This project shows how to use ServiceTalk inside a Clojure program.
 
 ## Usage
 
-FIXME: explanation
+This project uses [lein](https://leiningen.org/)
 
-    $ java -jar servicetalk-clojure-examples-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ lein run
 
 ## License
 
-Copyright © 2023 FIXME
+Copyright © 2023 Tobi Lehman
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
